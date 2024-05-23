@@ -1,0 +1,12 @@
+Problem Statement Link
+
+```
+https://pan.webis.de/clef24/pan24-web/generated-content-analysis.html
+```
+
+
+Task
+With Large Language Models (LLMs) improving at breakneck speed and seeing more widespread adoption every day, it is getting increasingly hard to discern whether a given text was authored by a human being or a machine. Many classification approaches have been devised to help humans distinguish between human- and machine-authored text, though often without questioning the fundamental and inherent feasibility of the task itself.
+With years of experience in a related but much broader field—authorship verification—, we set out to answer whether this task can be solved. We start with the simplest arrangement of a suitable task setup: Given two texts, one authored by a human, one by a machine: pick out the human.
+The Generative AI Authorship Verification Task @ PAN is organized in collaboration with the Voight-Kampff Task @ ELOQUENT Lab in a builder-breaker style. PAN participants will build systems to tell human and machine apart, while ELOQUENT participants will investigate novel text generation and obfuscation methods for avoiding detection.
+
