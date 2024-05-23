@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Partha Pakray",
+    "role": "Professor",
+    "profilePic": "https://lh3.googleusercontent.com/a-/ALV-UjUjvyvtLsIXi4KAObqU1aTZmaFRgPrX5FCb9_Tz2UmIrWxWpHNw=s64-p-k-rw-no",
+    "email": "partha@cse.nits.ac.in",
+    "phone": ""
+  },
+  {
+    "id": 2,
+    "name": "Annepaka Yadagiri",
+    "role": "Research Scholar",
+    "profilePic": "https://lh3.googleusercontent.com/a-/ALV-UjXqio0V0T80txq6fT8EbbNUlyPqNEAMOAkrKB1ZvRKluprDTv4=s64-p-k-rw-no",
+    "email": "annepaka22_rs@cse.nits.ac.in",
+    "phone": ""
+  },
+  {
+    "id": 3,
+    "name": "Dimpal Kalita",
+    "role": "Student",
+    "profilePic": "https://media.licdn.com/dms/image/D4D03AQE3JF1zwEyBuA/profile-displayphoto-shrink_800_800/0/1681667271749?e=1720051200&v=beta&t=RqzEZX5gHvZuBNDcd0WNM479SMbCm9dQXmoOYB8Iqvg",
+    "email": "kalitadimpal112@gmail.com",
+    "phone": "8486325816"
+  },
+  {
+    "id": 4,
+    "name": "Trilasha Mazumder",
+    "role": "Student",
+    "profilePic": "https://media.licdn.com/dms/image/D4D03AQFFvF1sOdOpVQ/profile-displayphoto-shrink_800_800/0/1687055171471?e=1720051200&v=beta&t=liUupeT9AiKsRHm2ZiDqJ2-2MammX5Rg6JGSPpExQ0A",
+    "email": "tilupm2020@gmail.com",
+    "phone": ""
+  },
+  {
+    "id": 5,
+    "name": "Abhisek Ranjan",
+    "role": "Student",
+    "profilePic": "https://media.licdn.com/dms/image/C4D03AQGj_8uaj1eekQ/profile-displayphoto-shrink_800_800/0/1652167599605?e=1720051200&v=beta&t=XOerAtKuCVCmZF84G4N_0ABGqkEvjnsIha_qNkfr1NE",
+    "email": "abhiran14082002@gmail.com",
+    "phone": ""
+  },
+  {
+    "id": 6,
+    "name": "Ashish Boston",
+    "role": "Student",
+    "profilePic": "https://media.licdn.com/dms/image/D5603AQHfHbl_fxMy8w/profile-displayphoto-shrink_800_800/0/1714826873935?e=1720051200&v=beta&t=XI5YK4mF6FTC2qsWQUxHuTHi45DSPCT94U4ISM-47k0",
+    "email": "kumarashishbostan@gmail.com",
+    "phone": ""
+  },
+  {
+    "id": 7,
+    "name": "Parthib Toppo",
+    "role": "Student",
+    "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXzfMlGr-a63NNRJ2bD4tnWDHTpCaOwjZaPgeLHKE28w&s",
+    "email": "parthib21_ug@cse.nits.ac.in",
+    "phone": ""
+  },
+  {
+    "id": 8,
+    "name": "Suraiya Parween",
+    "role": "Student",
+    "profilePic": "https://media.licdn.com/dms/image/D4D03AQHnwlJo6ert-g/profile-displayphoto-shrink_800_800/0/1679753969700?e=1721260800&v=beta&t=cdA0QGziT4I2ERcEw8riB5inogmWabG2Rf3R1XqffbM",
+    "email": "suru786parween@gmail.com",
+    "phone": ""
+  },
+  {
+    "id": 9,
+    "name": "Lavanya Shree",
+    "role": "Student",
+    "profilePic": "https://media.licdn.com/dms/image/D4D03AQEATyZJxgPXSQ/profile-displayphoto-shrink_400_400/0/1673105296656?e=1721260800&v=beta&t=IcgL7PscALlSV6MnoDrChuWDxbqebegQayHMCMWUP7Q",
+    "email": "lavanya1shree@gmail.com",
+    "phone": ""
+  }
+]

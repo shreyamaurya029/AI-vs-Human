@@ -1,0 +1,28 @@
+.predictionContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 300px; /* Adjust width as needed */
+}
+
+.legend {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
+.aiLabel,
+.nonAiLabel {
+  font-weight: bold;
+}
+
+.aiLabel {
+  color: #f44336;
+}
+
+.nonAiLabel {
+  color: #4caf50;
+}
